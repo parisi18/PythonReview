@@ -1,7 +1,8 @@
-print('===DESAFIO 1 ===')
+#Say hi to <Username>
 
-#Nome do usuario
-nome = input('Qual o seu nome? ')
+print('===CHALLENGE 1 ===')
 
-#retorno do nome com a mensagem fixa
-print('Olá', nome, 'muito prazer em te conhecer!')
+#Username
+nome = input('Whats your name? ')
+
+print('Hi', nome, 'nice to meet you!')
