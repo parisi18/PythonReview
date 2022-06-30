@@ -1,8 +1,8 @@
-print('===DESAFIO 2 ===')
+print('===CHALLENGE 2 ===')
 
 #Dia do nascimento
-dia = input('Dia: ')
-mes = input('Mes: ')
-ano = input('Ano: ')
+date = input('Date: ')
+month = input('Month: ')
+year = input('Year: ')
 
-print('Você nasceu no dia: ', dia, ' de ', mes, ' de ', ano, '. Correto?')
+print('Was you born on: ', date, ' ', month, ' ', year, 'Correct?')
