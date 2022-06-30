@@ -1,3 +1,5 @@
+#Sum two numbers, please
+
 print('===CHALLENGE 3 ===')
 
 #Summing numbers
