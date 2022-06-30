@@ -1,6 +1,8 @@
+#Show date of birth input
+
 print('===CHALLENGE 2 ===')
 
-#Dia do nascimento
+#Date of birth
 date = input('Date: ')
 month = input('Month: ')
 year = input('Year: ')
